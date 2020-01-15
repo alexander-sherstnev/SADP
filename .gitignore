@@ -1,0 +1,7 @@
+# IDEs files
+.idea/
+
+# Build folders
+build/
+!build/.gitkeep
+cmake-build-*/
